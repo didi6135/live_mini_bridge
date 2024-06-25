@@ -1,0 +1,30 @@
+{
+  "players": [
+    {
+      "name": "moshe",
+      "cards": [{ "image_path": "JH.svg", "number": 11, "shape": "H" }],
+      "score": 0,
+      "bids": 0,
+      "round_of_win": 0,
+      "rule": "admin"
+    },
+    {
+      "name": "david",
+      "cards": [{ "image_path": "5C.svg", "number": 5, "shape": "C" }],
+      "score": 0,
+      "bids": 0,
+      "round_of_win": 0,
+      "rule": "player"
+    },
+    {
+      "name": "simcha",
+      "cards": [{ "image_path": "AC.svg", "number": 14, "shape": "C" }],
+      "score": 0,
+      "bids": 0,
+      "round_of_win": 0,
+      "rule": "player"
+    }
+  ],
+  "maxRounds": 17,
+  "rounds": 1
+}
